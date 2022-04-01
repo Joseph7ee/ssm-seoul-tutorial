@@ -14,8 +14,8 @@ Swiss School of Management / AI·Big Data DBA 2학기 두 번째 강의 기록
 ### 설치 완료 스크린샷
 ![ssm-seoul](image/ssm-seoul.png)
 
-## 수업 내용 요약
-### 강의 계획
+## 강의 계획
+### 일정
 
 |일차|내용|실습|
 |:-----:|:-----|:-----|
